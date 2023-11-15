@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="source_array">
+        <item>bbc-news</item>
+        <item>abc-news</item>
+        <item>category=business</item>
+        <!-- Add more news sources as needed -->
+    </string-array>
+
+</resources>
